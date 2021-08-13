@@ -8,7 +8,7 @@ from functools import partial
 
 def sign_in(meetingid, name, pswd):
     #opens the zoom app
-    subprocess.call(r"C:\Users\nehac\AppData\Roaming\Zoom\bin\Zoom.exe")
+    subprocess.call(r"C:\Users\nehac\AppData\Roaming\Zoom\bin\Zoom.exe")  #you need to copy and paste the address of your zoom executable file here in this method. It will look something like this.
     
     time.sleep(10)
     
