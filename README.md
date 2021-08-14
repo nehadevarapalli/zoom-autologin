@@ -11,3 +11,4 @@ Requirements:
 3. keep the command prompt window open
 
 --If you want the program to automatically start running after startup then you can create a task to do so in your task scheduler.
+    follow the steps here: https://www.jcchouinard.com/python-automation-using-task-scheduler/
