@@ -3,4 +3,11 @@ A python application to eradicate the hassle of logging in the meeting details a
 
 For this to work on your system you will have to modify the argument (the address of the zoom executable file) written on line number 11 which will look like this:
     subprocess.call(r"C:\Users\nehac\AppData\Roaming\Zoom\bin\Zoom.exe")
-Here instead of this: "C:\Users\nehac\AppData\Roaming\Zoom\bin\Zoom.exe" you will have to copy and paste the address of the zoom executable on your system.
+Here instead of this: "C:\Users\nehac\AppData\Roaming\Zoom\bin\Zoom.exe" you will have to copy and paste the address of the zoom executable file on your system.
+
+Requirements:
+1. install pandas
+2. compile the program
+3. keep the command prompt window open
+
+--If you want the program to automatically start running after startup then you can create a task in your task scheduler.
