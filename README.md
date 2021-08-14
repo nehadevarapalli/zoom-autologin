@@ -6,9 +6,10 @@ For this to work on your system you will have to modify the argument (the addres
 Here instead of this: "C:\Users\nehac\AppData\Roaming\Zoom\bin\Zoom.exe" you will have to copy and paste the address of the zoom executable file on your system.
 
 Requirements:
-1. install pandas
-2. compile and run the program
-3. keep the command prompt window open
+1. install pyautogui
+2. install pandas
+3. compile and run the program
+4. keep the command prompt window open
 
 --If you want the program to automatically start running after startup then you can create a task to do so in your task scheduler.
     follow the steps here: https://www.jcchouinard.com/python-automation-using-task-scheduler/
