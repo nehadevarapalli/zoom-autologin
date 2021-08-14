@@ -7,7 +7,7 @@ Here instead of this: "C:\Users\nehac\AppData\Roaming\Zoom\bin\Zoom.exe" you wil
 
 Requirements:
 1. install pandas
-2. compile the program
+2. compile and run the program
 3. keep the command prompt window open
 
---If you want the program to automatically start running after startup then you can create a task in your task scheduler.
+--If you want the program to automatically start running after startup then you can create a task to do so in your task scheduler.
