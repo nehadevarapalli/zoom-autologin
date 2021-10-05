@@ -11,7 +11,8 @@ Requirements:
 3. compile and run the program
 4. keep the command prompt window open
 
+**PS:- Enter your zoom meeting details in the CSS File provided.**
+
 --If you want the program to automatically start running after startup then you can create a task to do so in your task scheduler.
     follow the steps here: https://www.jcchouinard.com/python-automation-using-task-scheduler/
 
-**PS:- Enter your zoom meeting details in the CSS File provided.**
